@@ -1,0 +1,2 @@
+\\Hsdatasrv1\RevisedFileTransferService\32Bit_FileTransferSQLQueries.pdb
+\\Hsdatasrv1\RevisedFileTransferService\32Bit_FileTransferSQLQueries.exe

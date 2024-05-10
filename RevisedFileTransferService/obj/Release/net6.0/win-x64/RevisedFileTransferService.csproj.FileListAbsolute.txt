@@ -1,0 +1,1087 @@
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\appsettings.Development.json
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\appsettings.json
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\FileTransferList.json
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.exe
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.deps.json
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.runtimeconfig.json
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.pdb
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\FluentFTP.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceProcess.ServiceController.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Json.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.CSharp.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Win32.Registry.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.AppContext.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Buffers.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Concurrent.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Immutable.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.NonGeneric.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Specialized.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.Annotations.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.Primitives.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Configuration.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Console.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Core.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.Common.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.DataSetExtensions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Contracts.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Debug.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Process.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Tools.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Tracing.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Drawing.Primitives.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Drawing.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Dynamic.Runtime.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.Calendars.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.Extensions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.Brotli.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.IsolatedStorage.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Pipes.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Expressions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Parallel.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Queryable.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Memory.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Http.Json.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Http.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.HttpListener.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Mail.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.NameResolution.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.NetworkInformation.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Ping.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Primitives.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Quic.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Requests.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Security.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.ServicePoint.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Sockets.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebClient.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebProxy.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebSockets.Client.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebSockets.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Numerics.Vectors.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Numerics.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ObjectModel.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.CoreLib.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.DataContractSerialization.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Uri.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Xml.Linq.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Xml.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Extensions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Metadata.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Primitives.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.Reader.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.ResourceManager.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.Writer.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Extensions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Handles.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Intrinsics.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Loader.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Numerics.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.AccessControl.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Claims.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Principal.Windows.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Principal.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.SecureString.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceModel.Web.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceProcess.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.RegularExpressions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Channels.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Overlapped.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Thread.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.ThreadPool.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Timer.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Transactions.Local.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Transactions.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ValueTuple.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Web.HttpUtility.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Web.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Windows.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.Linq.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.ReaderWriter.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.Serialization.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XDocument.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XPath.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XmlDocument.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XmlSerializer.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\WindowsBase.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscorlib.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\netstandard.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.Native.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-2-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-2-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l2-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-string-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-util-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\clretwrc.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\clrjit.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\coreclr.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\createdump.exe
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\dbgshim.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\hostfxr.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\hostpolicy.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordaccore.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordaccore_amd64_amd64_6.0.1623.17311.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordbi.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscorrc.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\msquic.dll
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\win-x64\ucrtbase.dll
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.AssemblyReference.cache
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.GeneratedMSBuildEditorConfig.editorconfig
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.AssemblyInfoInputs.cache
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.AssemblyInfo.cs
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.CoreCompileInputs.cache
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.CopyComplete
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.dll
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\refint\RevisedFileTransferService.dll
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.pdb
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.genruntimeconfig.cache
+C:\HSMTestPage\RevisedFileTransferService\obj\Release\net6.0\win-x64\ref\RevisedFileTransferService.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\appsettings.Development.json
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\appsettings.json
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.exe
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.deps.json
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.runtimeconfig.json
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.pdb
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\FluentFTP.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceProcess.ServiceController.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Json.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.CSharp.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.Core.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Win32.Primitives.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Win32.Registry.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.AppContext.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Buffers.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Concurrent.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Immutable.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.NonGeneric.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Specialized.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.Annotations.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.DataAnnotations.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.Primitives.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.TypeConverter.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Configuration.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Console.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Core.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.Common.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.DataSetExtensions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Contracts.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Debug.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Process.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.StackTrace.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Tools.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.TraceSource.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Tracing.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Drawing.Primitives.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Drawing.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Dynamic.Runtime.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.Calendars.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.Extensions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.Brotli.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.FileSystem.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.ZipFile.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.AccessControl.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.Primitives.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.Watcher.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.IsolatedStorage.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.MemoryMappedFiles.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Pipes.AccessControl.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Pipes.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Expressions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Parallel.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Queryable.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Memory.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Http.Json.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Http.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.HttpListener.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Mail.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.NameResolution.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.NetworkInformation.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Ping.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Primitives.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Quic.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Requests.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Security.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.ServicePoint.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Sockets.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebClient.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebHeaderCollection.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebProxy.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebSockets.Client.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebSockets.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Numerics.Vectors.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Numerics.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ObjectModel.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.CoreLib.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.DataContractSerialization.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Uri.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Xml.Linq.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Xml.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.DispatchProxy.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.Lightweight.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Extensions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Metadata.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Primitives.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.TypeExtensions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.Reader.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.ResourceManager.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.Writer.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Extensions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Handles.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Intrinsics.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Loader.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Numerics.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Formatters.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Json.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Primitives.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Xml.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.AccessControl.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Claims.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Algorithms.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Cng.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Csp.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Encoding.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Primitives.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Principal.Windows.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Principal.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.SecureString.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceModel.Web.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceProcess.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.Extensions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.RegularExpressions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Channels.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Overlapped.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Dataflow.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Extensions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Parallel.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Thread.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.ThreadPool.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Timer.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Transactions.Local.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Transactions.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ValueTuple.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Web.HttpUtility.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Web.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Windows.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.Linq.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.ReaderWriter.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.Serialization.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XDocument.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XPath.XDocument.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XPath.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XmlDocument.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XmlSerializer.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\WindowsBase.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscorlib.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\netstandard.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.Native.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-2-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-debug-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-2-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l2-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-handle-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-heap-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-localization-l1-2-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-memory-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-profile-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-string-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-2-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-util-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-math-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-private-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-process-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-string-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-time-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\clretwrc.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\clrjit.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\coreclr.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\createdump.exe
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\dbgshim.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\hostfxr.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\hostpolicy.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordaccore.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordaccore_amd64_amd64_6.0.2523.51912.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordbi.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscorrc.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\msquic.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\ucrtbase.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.AssemblyReference.cache
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.GeneratedMSBuildEditorConfig.editorconfig
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.AssemblyInfoInputs.cache
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.AssemblyInfo.cs
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.CoreCompileInputs.cache
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.CopyComplete
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\refint\RevisedFileTransferService.dll
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.pdb
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.genruntimeconfig.cache
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\ref\RevisedFileTransferService.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\appsettings.Development.json
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\appsettings.json
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.exe
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.deps.json
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.runtimeconfig.json
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.pdb
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\FluentFTP.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.Odbc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceProcess.ServiceController.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Json.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.CSharp.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.Core.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Win32.Primitives.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Win32.Registry.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.AppContext.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Buffers.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Concurrent.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Immutable.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.NonGeneric.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Specialized.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.Annotations.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.DataAnnotations.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.Primitives.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.TypeConverter.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Configuration.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Console.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Core.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.Common.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.DataSetExtensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Contracts.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Debug.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Process.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.StackTrace.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Tools.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.TraceSource.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Tracing.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Drawing.Primitives.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Drawing.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Dynamic.Runtime.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.Calendars.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.Extensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.Brotli.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.FileSystem.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.ZipFile.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.AccessControl.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.Primitives.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.Watcher.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.IsolatedStorage.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.MemoryMappedFiles.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Pipes.AccessControl.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Pipes.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Expressions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Parallel.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Queryable.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Memory.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Http.Json.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Http.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.HttpListener.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Mail.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.NameResolution.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.NetworkInformation.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Ping.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Primitives.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Quic.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Requests.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Security.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.ServicePoint.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Sockets.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebClient.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebHeaderCollection.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebProxy.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebSockets.Client.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebSockets.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Numerics.Vectors.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Numerics.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ObjectModel.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.CoreLib.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.DataContractSerialization.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Uri.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Xml.Linq.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Xml.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.DispatchProxy.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.Lightweight.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Extensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Metadata.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Primitives.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.TypeExtensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.Reader.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.ResourceManager.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.Writer.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Extensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Handles.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Intrinsics.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Loader.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Numerics.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Formatters.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Json.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Primitives.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Xml.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.AccessControl.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Claims.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Algorithms.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Cng.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Csp.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Encoding.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Primitives.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Principal.Windows.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Principal.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.SecureString.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceModel.Web.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceProcess.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.Extensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.RegularExpressions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Channels.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Overlapped.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Dataflow.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Extensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Parallel.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Thread.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.ThreadPool.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Timer.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Transactions.Local.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Transactions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ValueTuple.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Web.HttpUtility.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Web.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Windows.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.Linq.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.ReaderWriter.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.Serialization.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XDocument.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XPath.XDocument.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XPath.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XmlDocument.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XmlSerializer.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\WindowsBase.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscorlib.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\netstandard.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.Native.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-2-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-debug-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-2-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l2-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-handle-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-heap-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-localization-l1-2-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-memory-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-profile-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-string-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-2-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-util-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-math-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-private-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-process-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-string-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-time-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\clretwrc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\clrjit.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\coreclr.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\createdump.exe
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\dbgshim.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\hostfxr.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\hostpolicy.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordaccore.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordaccore_amd64_amd64_6.0.2523.51912.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordbi.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscorrc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\msquic.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\win-x64\ucrtbase.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.AssemblyReference.cache
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.GeneratedMSBuildEditorConfig.editorconfig
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.AssemblyInfoInputs.cache
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.AssemblyInfo.cs
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.CoreCompileInputs.cache
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.CopyComplete
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\refint\RevisedFileTransferService.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.pdb
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.genruntimeconfig.cache
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\obj\Release\net6.0\win-x64\ref\RevisedFileTransferService.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\appsettings.Development.json
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\appsettings.json
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.exe
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.deps.json
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.runtimeconfig.json
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\RevisedFileTransferService.pdb
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\FluentFTP.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.Odbc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceProcess.ServiceController.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Json.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.CSharp.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.VisualBasic.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.AppContext.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Buffers.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Concurrent.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Immutable.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.NonGeneric.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.Specialized.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Collections.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ComponentModel.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Configuration.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Console.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Core.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.Common.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Data.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Debug.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Process.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Tools.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Drawing.Primitives.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Drawing.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Dynamic.Runtime.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.Calendars.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.Extensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Globalization.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.FileSystem.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Pipes.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Expressions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Parallel.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.Queryable.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Linq.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Memory.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Http.Json.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Http.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.HttpListener.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Mail.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.NameResolution.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.NetworkInformation.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Ping.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Primitives.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Quic.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Requests.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Security.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.ServicePoint.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.Sockets.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebClient.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebProxy.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.WebSockets.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Net.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Numerics.Vectors.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Numerics.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ObjectModel.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.CoreLib.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Uri.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Xml.Linq.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Private.Xml.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Emit.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Extensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Metadata.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.Primitives.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Reflection.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.Reader.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.ResourceManager.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Resources.Writer.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Extensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Handles.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.InteropServices.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Loader.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Numerics.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.Serialization.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Runtime.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.AccessControl.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Claims.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Principal.Windows.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.Principal.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.SecureString.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Security.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceModel.Web.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ServiceProcess.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.Encoding.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Text.RegularExpressions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Channels.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Overlapped.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Tasks.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Thread.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.ThreadPool.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.Timer.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Threading.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Transactions.Local.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Transactions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.ValueTuple.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Web.HttpUtility.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Web.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Windows.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.Linq.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.Serialization.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XDocument.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XPath.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XmlDocument.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.Xml.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\WindowsBase.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscorlib.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\netstandard.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\System.IO.Compression.Native.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-console-l1-2-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l1-2-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-file-l2-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-string-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-core-util-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\clretwrc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\clrjit.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\coreclr.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\createdump.exe
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\dbgshim.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\hostfxr.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\hostpolicy.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordaccore.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordaccore_amd64_amd64_6.0.2523.51912.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscordbi.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\mscorrc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\msquic.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\bin\Release\net6.0\win-x64\ucrtbase.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.AssemblyReference.cache
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.AssemblyInfoInputs.cache
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.AssemblyInfo.cs
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.CoreCompileInputs.cache
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.csproj.CopyComplete
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\refint\RevisedFileTransferService.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.pdb
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\RevisedFileTransferService.genruntimeconfig.cache
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\RevisedFileTransferService\obj\Release\net6.0\win-x64\ref\RevisedFileTransferService.dll

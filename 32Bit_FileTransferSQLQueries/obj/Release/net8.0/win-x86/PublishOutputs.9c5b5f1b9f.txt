@@ -1,0 +1,2 @@
+C:\HSM-WEB-FS\32Bit_FileTransferSQLQueries.pdb
+C:\HSM-WEB-FS\32Bit_FileTransferSQLQueries.exe

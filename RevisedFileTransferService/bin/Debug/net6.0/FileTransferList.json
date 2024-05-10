@@ -1,0 +1,25 @@
+{
+	"UpdateService" :  false,
+	"arrJSON": [
+		{
+			"transferName" :  "TestCopyProcess1",
+			"srcDNSname": "HSPCWS1",
+			"srcIPaddress": "10.100.176.116",
+			"destDNSname": "HsDataSrv1",
+			"destIPaddress": "10.100.189.56",
+			"minutesTimer": 5,
+			"logPrimary": true,
+			"logSecondary": false
+		},
+		{
+			"transferName": "TestCopyProcess2",
+			"srcDNSname": "HSPRI",
+			"srcIPaddress": "10.100.189.122",
+			"destDNSname": "HsDataSrv1",
+			"destIPaddress": "10.100.189.56",
+			"minutesTimer": 5,
+			"logPrimary": true,
+			"logSecondary": false
+		}
+	]
+} 

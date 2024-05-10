@@ -1,0 +1,4 @@
+\\Hsdatasrv1\RevisedFileTransferService\appsettings.Development.json
+\\Hsdatasrv1\RevisedFileTransferService\appsettings.json
+\\Hsdatasrv1\RevisedFileTransferService\RevisedFileTransferService.pdb
+\\Hsdatasrv1\RevisedFileTransferService\RevisedFileTransferService.exe

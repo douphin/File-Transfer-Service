@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32Bit_FileTransferSQLQueries", "32Bit_FileTransferSQLQueries\32Bit_FileTransferSQLQueries.csproj", "{FBF79728-C162-4FA9-ABCD-4527985E3620}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevisedFileTransferService", "RevisedFileTransferService\RevisedFileTransferService.csproj", "{D88EB4BB-8D98-4956-A16C-0E0D73416B6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestsFileTransferService", "UnitTestsFileTransferService\UnitTestsFileTransferService.csproj", "{A5921559-EF1B-4547-9F21-505A81F5C07D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8F549045-7C86-4D3D-AA90-F2F1A3F87674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF79728-C162-4FA9-ABCD-4527985E3620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF79728-C162-4FA9-ABCD-4527985E3620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF79728-C162-4FA9-ABCD-4527985E3620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF79728-C162-4FA9-ABCD-4527985E3620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88EB4BB-8D98-4956-A16C-0E0D73416B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88EB4BB-8D98-4956-A16C-0E0D73416B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88EB4BB-8D98-4956-A16C-0E0D73416B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88EB4BB-8D98-4956-A16C-0E0D73416B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5921559-EF1B-4547-9F21-505A81F5C07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5921559-EF1B-4547-9F21-505A81F5C07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5921559-EF1B-4547-9F21-505A81F5C07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5921559-EF1B-4547-9F21-505A81F5C07D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {495EF282-85A4-4A7F-90CF-94D5FD67DF74}
+	EndGlobalSection
+EndGlobal

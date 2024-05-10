@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pY2gmF2Jtu8HD7shUfs4HvHqQsqsl/TVqatp7WWpNtb9xL6tGVSqgxY3C6kLT7BC1C8h6hQO8x3IZyKfPIIRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A33073\\source\\repos\\hsdatasrv1-file-transfer\\32Bit_FileTransferSQLQueries\\32Bit_FileTransferSQLQueries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A33073\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\A33073\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\A33073\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\A33073\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.0\\microsoft.netcore.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\A33073\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\A33073\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\A33073\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.0\\microsoft.netcore.app.crossgen2.win-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

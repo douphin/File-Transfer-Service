@@ -1,0 +1,324 @@
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTestsFileTransferService
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\testhost.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\RevisedFileTransferService.deps.json
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\RevisedFileTransferService.runtimeconfig.json
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\appsettings.Development.json
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\appsettings.json
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\RevisedFileTransferService.exe
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\testhost.exe
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\UnitTestsFileTransferService.deps.json
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\UnitTestsFileTransferService.runtimeconfig.json
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\UnitTestsFileTransferService.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\UnitTestsFileTransferService.pdb
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\FluentFTP.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Newtonsoft.Json.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\NuGet.Frameworks.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\System.Data.Odbc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\freebsd\lib\net8.0\System.Data.Odbc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\illumos\lib\net8.0\System.Data.Odbc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\ios\lib\net8.0\System.Data.Odbc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.Data.Odbc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.Data.Odbc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\solaris\lib\net8.0\System.Data.Odbc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\tvos\lib\net8.0\System.Data.Odbc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\RevisedFileTransferService.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\RevisedFileTransferService.pdb
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.csproj.AssemblyReference.cache
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.GeneratedMSBuildEditorConfig.editorconfig
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.AssemblyInfoInputs.cache
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.AssemblyInfo.cs
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.csproj.CoreCompileInputs.cache
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.csproj.CopyComplete
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\refint\UnitTestsFileTransferService.dll
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.pdb
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.genruntimeconfig.cache
+W:\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\UnitTestsFileTransferService\obj\Debug\net8.0\ref\UnitTestsFileTransferService.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTestsFileTransferService
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\appsettings.json
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\testhost.exe
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\testhost.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\RevisedFileTransferService.deps.json
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\RevisedFileTransferService.runtimeconfig.json
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\RevisedFileTransferService.exe
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\UnitTestsFileTransferService.deps.json
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\UnitTestsFileTransferService.runtimeconfig.json
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\UnitTestsFileTransferService.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\UnitTestsFileTransferService.pdb
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\FluentFTP.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\System.Data.Odbc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\freebsd\lib\net8.0\System.Data.Odbc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\illumos\lib\net8.0\System.Data.Odbc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\ios\lib\net8.0\System.Data.Odbc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.Data.Odbc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.Data.Odbc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\solaris\lib\net8.0\System.Data.Odbc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\tvos\lib\net8.0\System.Data.Odbc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\RevisedFileTransferService.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\RevisedFileTransferService.pdb
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.csproj.AssemblyReference.cache
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.AssemblyInfoInputs.cache
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.AssemblyInfo.cs
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.csproj.CoreCompileInputs.cache
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.csproj.CopyComplete
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\refint\UnitTestsFileTransferService.dll
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.pdb
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\UnitTestsFileTransferService.genruntimeconfig.cache
+C:\Users\A33073\source\repos\hsdatasrv1-file-transfer\UnitTestsFileTransferService\obj\Debug\net8.0\ref\UnitTestsFileTransferService.dll

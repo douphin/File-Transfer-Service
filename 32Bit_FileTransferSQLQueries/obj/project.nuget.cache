@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ofWdCr1db7ZdQAEqymWrxAMNUOyMdSrQ8XJaTMlADfALp0cvLOvaIXzgtlTZI/BD6eQu9xWqCmb9VtID4gA8GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A33073\\source\\repos\\hsdatasrv1-file-transfer\\32Bit_FileTransferSQLQueries\\32Bit_FileTransferSQLQueries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A33073\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\A33073\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

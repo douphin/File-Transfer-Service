@@ -1,0 +1,5 @@
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\publish\win-x64\appsettings.Development.json
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\publish\win-x64\appsettings.json
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\publish\win-x64\FileTransferList.json
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\publish\win-x64\RevisedFileTransferService.pdb
+C:\HSMTestPage\RevisedFileTransferService\bin\Release\net6.0\publish\win-x64\RevisedFileTransferService.exe

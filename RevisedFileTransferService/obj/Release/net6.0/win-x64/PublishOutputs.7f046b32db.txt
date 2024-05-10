@@ -1,0 +1,4 @@
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\publish\win-x64\appsettings.Development.json
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\publish\win-x64\appsettings.json
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\publish\win-x64\RevisedFileTransferService.pdb
+\\hswebsrv\shares\HSM_LVL2\AK_soft\Phinney\HsDataSrv1 File Transfer Programs\Current File Transfer Service\RevisedFileTransferService\bin\Release\net6.0\publish\win-x64\RevisedFileTransferService.exe

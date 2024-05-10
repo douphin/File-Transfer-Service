@@ -1,0 +1,16 @@
+{
+  "LastUpdated": "Thursday, March 14, 2024 1:29 PM",
+  "statusObjects": [
+    {
+      "transferName": "Profile-Reports",
+      "srcIPstatus": "Good",
+      "destIPstatus": "Good",
+      "srcPathstatus": "Good",
+      "destPathstatus": "Good",
+      "FTPconnectionstatus": "Untested",
+      "Copystatus": "Good",
+      "LogPrimarystatus": "Untested",
+      "LogSecondarystatus": "Good"
+    }
+  ]
+}

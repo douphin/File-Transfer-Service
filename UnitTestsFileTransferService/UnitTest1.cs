@@ -27,14 +27,50 @@ namespace UnitTestsFileTransferService
         }
 
         [TestMethod]
-        public void TestReadWriteJSON()
+        public void TestReadJSON()
         {
-            const string transferlist_filename = @"TestTransferList.json";
-            const string status_filename = @"TestTransferStatus.json";
+            const string transferlist_filename = @"..\..\..\TestTransferList.json";
+            const string status_filename = @"..\..\..\TestTransferStatus.json";
 
-            string JSONstring = File.ReadAllText(transferlist_filename);
-            TransferSerializer? ServiceData = JsonSerializer.Deserialize<TransferSerializer>(JSONstring);
+            string transferListString = File.ReadAllText(transferlist_filename);
+            TransferSerializer? ServiceData = JsonSerializer.Deserialize<TransferSerializer>(transferListString);
 
+            Assert.IsNotNull(ServiceData);
+            Assert.AreEqual("192.168.0.1", ServiceData.transferObjects[0].srcIPaddress);
+            Assert.AreEqual("192.168.0.2", ServiceData.transferObjects[0].destIPaddress);
+
+            string transferStatusString = File.ReadAllText(status_filename);
+            StatusSerializer? StatusData = JsonSerializer.Deserialize<StatusSerializer>(transferStatusString);
+
+            Assert.IsNotNull(StatusData);
+            Assert.AreEqual("Untested", StatusData.statusObjects[0].FTPconnectionstatus);
+            Assert.AreEqual("Good", StatusData.statusObjects[0].Copystatus);
+        }
+
+        [TestMethod]
+        public void TestWriteJSON()
+        {
+            const string transferlist_filename = @"..\..\..\TestTransferList.json";
+
+            string testTime = DateTime.Now.ToString("f");
+
+            string transferListString = File.ReadAllText(transferlist_filename);
+            TransferSerializer? ServiceData = JsonSerializer.Deserialize<TransferSerializer>(transferListString);
+
+            ServiceData.LastUpdate = testTime;
+            ServiceData.transferObjects[0].transferName = $"Test-Transfer {testTime}";
+
+            transferListString = JsonSerializer.Serialize(ServiceData, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText(transferlist_filename, transferListString);
+
+            // Check to see that the dates we wrote show up
+
+            string checkTransferList = File.ReadAllText(transferlist_filename);
+            TransferSerializer? CheckServiceData = JsonSerializer.Deserialize<TransferSerializer>(checkTransferList);
+
+            Assert.IsNotNull(CheckServiceData);
+            Assert.AreEqual(testTime, CheckServiceData.LastUpdate);
+            Assert.AreEqual($"Test-Transfer {testTime}", CheckServiceData.transferObjects[0].transferName); 
         }
     }
 }

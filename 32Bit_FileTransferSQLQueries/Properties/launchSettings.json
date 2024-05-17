@@ -2,7 +2,7 @@
   "profiles": {
     "32Bit_FileTransferSQLQueries": {
       "commandName": "Project",
-      "commandLineArgs": "ELOG SELECT"
+      "commandLineArgs": "IDtype1 SELECT"
     }
   }
 }

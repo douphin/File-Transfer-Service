@@ -11,7 +11,7 @@ namespace FileTransferSQLQueries_32Bit
         {
             try
             {
-                // The first arg should be "mval" or "elog" and the second should be "Select", "UPDATE", or "COPYFAIL"
+                // The first arg should be the IDtype and the second should be "Select", "UPDATE", or "COPYFAIL"
                 if (args.Length == 0)
                 {
                     using (StreamWriter sw = new StreamWriter(@"C:\USR\Logs\File Transfer Logs\UnhandledErrors.txt", true))
@@ -23,9 +23,9 @@ namespace FileTransferSQLQueries_32Bit
                 // If select, Run the query and write the results to a text file
                 else if (string.Equals(args[1], "SELECT", StringComparison.OrdinalIgnoreCase))
                 {
-                    using (StreamWriter sw = new StreamWriter(@"C:\USR\SRC\CS\RevisedFileTransferService\SCHED-CONS_SELECT_" + args[0].ToUpper() + ".txt", false))
+                    using (StreamWriter sw = new StreamWriter(@"C:\USR\SRC\CS\RevisedFileTransferService\ID_NUM_SELECT_" + args[0].ToUpper() + ".txt", false))
                     {
-                        foreach (string item in MVALELOG_SELECT(args[0]))
+                        foreach (string item in DATA_SELECT(args[0]))
                         {
                             sw.WriteLine($"{item}");
                         }
@@ -33,7 +33,7 @@ namespace FileTransferSQLQueries_32Bit
                     }
                 }
 
-                // If update, following the first two args, will be all of the sched-cons to write for,
+                // If update, following the first two args, will be all of the ID_NUM to write for,
                 //   take those and write dump times for their copy
                 else if (string.Equals(args[1], "UPDATE", StringComparison.OrdinalIgnoreCase))
                 {
@@ -42,7 +42,7 @@ namespace FileTransferSQLQueries_32Bit
                     list.RemoveAt(0);
                     list.RemoveAt(0);
 
-                    MVALELOG_UPDATE(list, args[0]);
+                    DATA_UPDATE(list, args[0]);
                 }
 
                 // If copyfail, do the same as update, just write error messages to the dump_error column
@@ -53,7 +53,7 @@ namespace FileTransferSQLQueries_32Bit
                     list.RemoveAt(0);
                     list.RemoveAt(0);
 
-                    MVALELOG_COPYFAIL(list, args[0]);
+                    DATA_COPYFAIL(list, args[0]);
                 }
             }
             catch (Exception ex)
@@ -68,10 +68,10 @@ namespace FileTransferSQLQueries_32Bit
 
 
 
-        // Select sched-cons from DB1 for files to copy
-        public static List<string> MVALELOG_SELECT(string mvalORelog)
+        // Select ID_NUM from DB1 for files to copy
+        public static List<string> DATA_SELECT(string IDtype)
         {
-            string str = $"SELECT * FROM X_ACHVD_PCS WHERE ARCHIVE_TIME > DATE '{DateTime.Now.AddDays(-2).ToString("yyyy-MM-dd")}' AND ARCHIVE_TIME_{mvalORelog.ToUpper()}_DUMP = DATE '4000-01-01' ORDER BY ARCHIVE_TIME ASC;";
+            string str = $"SELECT * FROM X_ACHVD_PCS WHERE ARCHIVE_TIME > DATE '{DateTime.Now.AddDays(-2).ToString("yyyy-MM-dd")}' AND ARCHIVE_TIME_{IDtype.ToUpper()}_DUMP = DATE '4000-01-01' ORDER BY ARCHIVE_TIME ASC;";
 
             OdbcConnection DB1 = new(){    ConnectionString = "DSN=DB1;UID=user;PWD=pass" };
 
@@ -83,28 +83,28 @@ namespace FileTransferSQLQueries_32Bit
             odbcDataAdapter.Fill(dataSet, "DB1_DATA");
             DB1.Close();
 
-            List<string> mvalIDtoCopy = [];
+            List<string> IDtoCopy = [];
 
             foreach (DataRow dr in dataSet.Tables[0].Rows)
             {
-                mvalIDtoCopy.Add(dr["MASTER_NUM"].ToString().Trim() + "-" + dr["MASTER_DASH"].ToString().Trim());
+                IDtoCopy.Add(dr["MASTER_NUM"].ToString().Trim() + "-" + dr["MASTER_DASH"].ToString().Trim());
             }
 
-            return mvalIDtoCopy;
+            return IDtoCopy;
 
         }
 
-        // Update sched-cons on DB1 for files copied
-        public static void MVALELOG_UPDATE(List<string> list, string mvalORelog)
+        // Update ID_NUM on DB1 for files copied
+        public static void DATA_UPDATE(List<string> list, string IDtype)
         {
 
-            string str = $"UPDATE X_ACHVD_PCS SET ARCHIVE_TIME_{mvalORelog.ToUpper()}_DUMP = TO_DATE( '{DateTime.Now.ToString("yyyy-MM-dd hh:mm:ss tt")}', 'yyyy-mm-dd HH:MI:SS AM') WHERE ";
+            string str = $"UPDATE X_ACHVD_PCS SET ARCHIVE_TIME_{IDtype.ToUpper()}_DUMP = TO_DATE( '{DateTime.Now.ToString("yyyy-MM-dd hh:mm:ss tt")}', 'yyyy-mm-dd HH:MI:SS AM') WHERE ";
             
 
             foreach (string item in list)
             {
-                string[] splitSchedCons = item.Split('-');
-                str += $" ( MASTER_NUM = {splitSchedCons[0]} AND MASTER_DASH = {splitSchedCons[1]} ) OR ";
+                string[] splitIDtype = item.Split('-');
+                str += $" ( MASTER_NUM = {splitIDtype[0]} AND MASTER_DASH = {splitIDtype[1]} ) OR ";
             }
 
             str = string.Concat(str.AsSpan(0, str.Length - 4), " ;");
@@ -120,16 +120,16 @@ namespace FileTransferSQLQueries_32Bit
 
         }
 
-        // Write error statements for the sched-cons that failed to copy
-        public static void MVALELOG_COPYFAIL(List<string> list, string mvalORelog)
+        // Write error statements for the ID_NUM that failed to copy
+        public static void DATA_COPYFAIL(List<string> list, string IDtype)
         {
 
-            string str = $"UPDATE X_ACHVD_PCS SET ARCHIVE_TIME_{mvalORelog.ToUpper()}_DUMP_ERROR = 'Could Not Copy, Files Not Present on DB1' WHERE ";
+            string str = $"UPDATE X_ACHVD_PCS SET ARCHIVE_TIME_{IDtype.ToUpper()}_DUMP_ERROR = 'Could Not Copy, Files Not Present on DB1' WHERE ";
 
             foreach (string item in list)
             {
-                string[] splitSchedCons = item.Split('-');
-                str += $" ( MASTER_NUM = {splitSchedCons[0]} AND MASTER_DASH = {splitSchedCons[1]} ) OR ";
+                string[] splitIDtype = item.Split('-');
+                str += $" ( MASTER_NUM = {splitIDtype[0]} AND MASTER_DASH = {splitIDtype[1]} ) OR ";
             }
 
             str = string.Concat(str.AsSpan(0, str.Length - 4), " ;");
@@ -143,7 +143,7 @@ namespace FileTransferSQLQueries_32Bit
 
             DB1.Close();
 
-            MVALELOG_UPDATE(list, mvalORelog);
+            DATA_UPDATE(list, IDtype);
         }
     }
 }

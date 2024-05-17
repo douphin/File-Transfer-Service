@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+y4BDd/2+Kk4pFjA0EvhsEN3lcjVIIyDBTXbrVVFb7aWrkFyIM5+P2ZdLfGzyrgbaWlzGIXcwuYV3pYlGlD/KA==",
+  "dgSpecHash": "Ax0MBqKptMe+Me1U9xg4vGrdg60i3NM6JiPR6KL+bGxSDcQy7pNRwOyf23wGUwOfy0OxdkqFR1S8GdxWqfCS3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A33073\\source\\repos\\hsdatasrv1-file-transfer\\RevisedFileTransferService\\RevisedFileTransferService.csproj",
+  "projectFilePath": "C:\\Users\\A33073\\source\\repos\\File-Transfer-Service\\RevisedFileTransferService\\RevisedFileTransferService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A33073\\.nuget\\packages\\fluentftp\\49.0.2\\fluentftp.49.0.2.nupkg.sha512",
     "C:\\Users\\A33073\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

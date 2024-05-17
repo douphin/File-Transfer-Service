@@ -2129,11 +2129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A33073\\source\\repos\\hsdatasrv1-file-transfer\\RevisedFileTransferService\\RevisedFileTransferService.csproj",
+      "projectUniqueName": "C:\\Users\\A33073\\source\\repos\\File-Transfer-Service\\RevisedFileTransferService\\RevisedFileTransferService.csproj",
       "projectName": "RevisedFileTransferService",
-      "projectPath": "C:\\Users\\A33073\\source\\repos\\hsdatasrv1-file-transfer\\RevisedFileTransferService\\RevisedFileTransferService.csproj",
+      "projectPath": "C:\\Users\\A33073\\source\\repos\\File-Transfer-Service\\RevisedFileTransferService\\RevisedFileTransferService.csproj",
       "packagesPath": "C:\\Users\\A33073\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A33073\\source\\repos\\hsdatasrv1-file-transfer\\RevisedFileTransferService\\obj\\",
+      "outputPath": "C:\\Users\\A33073\\source\\repos\\File-Transfer-Service\\RevisedFileTransferService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

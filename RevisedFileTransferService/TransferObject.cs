@@ -66,7 +66,7 @@ namespace RevisedFileTransferService
 
         private string logDate = DateTime.Now.ToString("MMM-dd-yyyy");
 
-        private bool isELOGorMVAL = false;
+        private bool isSpecialFTP = false;
 
         private StatusObject statusObject = new StatusObject();
 
@@ -122,9 +122,9 @@ namespace RevisedFileTransferService
                     srcPath = $"\\\\{srcIPaddress}" + srcPath;
                 }
 
-                if (transferName == "Mval FTP" || transferName == "Elog FTP")
+                if (transferName == "IDtype1" || transferName == "IDtype2")
                 {
-                    isELOGorMVAL = true;
+                    isSpecialFTP = true;
                 }
 
                 LogMessage("Object Initialized", WriteType.BreakLine);
@@ -176,7 +176,7 @@ namespace RevisedFileTransferService
                 }
 
                 // The source doesn't get modified for certain copy jobs
-                if (!isELOGorMVAL) ModsrcPath = MakePath(srcPath, DateTime.Now);
+                if (!isSpecialFTP) ModsrcPath = MakePath(srcPath, DateTime.Now);
 
                 // This destination gets modified no matter what
                 ModdestPath = MakePath(destPath, DateTime.Now);
@@ -308,8 +308,8 @@ namespace RevisedFileTransferService
                     List<string> toCopy = new List<string>();
                     List<string> toUpdate = new List<string>();
 
-                    // Populating a list in the event the copy job is for elog's or mval's
-                    if (isELOGorMVAL) toCopy = SQLfunctions.MVALELOG_SELECT(this, transferName.Substring(0, 4));
+                    // Populating a list in the event the copy job is for specialFTP
+                    if (isSpecialFTP) toCopy = SQLfunctions.DATA_SELECT(this, transferName.Substring(0, 4));
 
                     ftp.SetWorkingDirectory(srcPath);
 
@@ -321,9 +321,9 @@ namespace RevisedFileTransferService
                     // Foreach file found on the ftp server
                     foreach (var item in ftp.GetListing(ftp.GetWorkingDirectory(), FtpListOption.Recursive))
                     {
-                        string schedCons = ItemContains(item.Name, toCopy); // Gets the sched-cons 
+                        string IDtype = ItemContains(item.Name, toCopy); // Gets the ID_NUM 
 
-                        if (schedCons != "-1" || (!isELOGorMVAL && item.Modified.Day == DateTime.Now.Day))
+                        if ( item.Modified.Day == DateTime.Now.Day)
                         {
                             FtpStatus flag = ftp.DownloadFile(string.Concat(ModdestPath, item.FullName.AsSpan(11)), item.FullName, FtpLocalExists.Skip, FtpVerify.Retry);
 
@@ -344,9 +344,9 @@ namespace RevisedFileTransferService
 
                             i++;
 
-                            if (isELOGorMVAL)
+                            if (isSpecialFTP)
                             {
-                                toUpdate.Add(schedCons);
+                                toUpdate.Add(IDtype);
                                 fileToDelete = item.Name + ";*";
                             }
 
@@ -354,13 +354,6 @@ namespace RevisedFileTransferService
                         }
                     }
 
-                    // Run sql to update tables based on copy status
-                    if (isELOGorMVAL)
-                    {
-                        foreach (string schCons in toUpdate) toCopy.Remove(schCons);
-                        if (toUpdate.Count > 0)         SQLfunctions.MVALELOG_UPDATE(  this, toUpdate, transferName.Substring(0, 4));
-                        if (toCopy.Count > 0)           SQLfunctions.MVALELOG_COPYFAIL(this, toCopy,   transferName.Substring(0, 4));
-                    }
 
                     if (i > 0) LogMessage($"Verified {i} items", WriteType.BufferLine);
                     else       LogMessage("-------    "        , WriteType.InLine);
@@ -401,13 +394,13 @@ namespace RevisedFileTransferService
 
 
         // This will take the current file from the ftp server and see if it's on the copy list, returning 
-        public static string ItemContains(string file_item, List<string> db_schedCons)
+        public static string ItemContains(string file_item, List<string> db_IDtype)
         {
-            if (db_schedCons.Count == 0 )
+            if (db_IDtype.Count == 0 )
             {
                 return "-1";
             }
-            foreach (string currItem in db_schedCons)
+            foreach (string currItem in db_IDtype)
             {
                 if(file_item.Contains(currItem))
                 {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lwa2WYotemZGFeaRHxqoJEX9gg9OCX2E588jKckR1937hYggjalEUPElE3OkYzKd9qMtmcSMRtUh+Z3Z7Ucvrg==",
+  "dgSpecHash": "BkJcWV2OmZwtPKBaai4Tg9S3ZtTjsIvclBxh4W1vaZJNqsDl68jblMhvazUUTQHwFLMSy2MVT6hbxkVccg1kTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A33073\\source\\repos\\hsdatasrv1-file-transfer\\UnitTestsFileTransferService\\UnitTestsFileTransferService.csproj",
+  "projectFilePath": "C:\\Users\\A33073\\source\\repos\\File-Transfer-Service\\UnitTestsFileTransferService\\UnitTestsFileTransferService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A33073\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\A33073\\.nuget\\packages\\fluentftp\\49.0.2\\fluentftp.49.0.2.nupkg.sha512",

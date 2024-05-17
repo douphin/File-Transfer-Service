@@ -1,13 +1,13 @@
 {
   "UpdateService": false,
-  "LastUpdate": "Friday, March 8, 2024 9:04 AM",
+  "LastUpdate": "Friday, May 17, 2024 11:22 AM",
   "transferObjects": [
     {
-      "transferName": "Test-Transfer",
+      "transferName": "Test-Transfer Friday, May 17, 2024 11:22 AM",
       "TransferActive": true,
       "srcDNSname": "TestTransfer",
       "destDNSname": "datasrv",
-      "srcIPaddress": "196.168.0.1",
+      "srcIPaddress": "192.168.0.1",
       "destIPaddress": "192.168.0.2",
       "minutesTimer": 5,
       "logPrimary": false,
@@ -18,7 +18,9 @@
       "FTPusername": "",
       "FTPpassword": "",
       "lookBackDays": 7,
-      "deleteAfterCopy": false
+      "deleteAfterCopy": false,
+      "monthsUntilPurge": 24,
+      "creationTimeAutoSort": false
     }
   ]
 }

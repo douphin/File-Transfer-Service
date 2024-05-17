@@ -2,7 +2,7 @@
   "LastUpdated": "Thursday, March 14, 2024 1:29 PM",
   "statusObjects": [
     {
-      "transferName": "Profile-Reports",
+      "transferName": "Test-Transfer",
       "srcIPstatus": "Good",
       "destIPstatus": "Good",
       "srcPathstatus": "Good",

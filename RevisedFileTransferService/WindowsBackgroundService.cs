@@ -10,14 +10,32 @@ public sealed class WindowsBackgroundService : BackgroundService
     public WindowsBackgroundService(ILogger<WindowsBackgroundService> logger) =>
         (_logger) = (logger);
 
+    public static string UnhandledErrorPath = @"C:\USR\Logs\File Transfer Logs\UnhandledErrors.txt";
+
+    public static string transferlist_filename = @"C:\USR\SRC\CS\RevisedFileTransferService\FileTransferList.json";
+    public static string status_filename = @"C:\USR\SRC\CS\RevisedFileTransferService\FileTransferStatus.json";
+
     // This is the main loop, that will execute when the service starts
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
     {
         try
         {
-            const string transferlist_filename = @"C:\USR\SRC\CS\RevisedFileTransferService\FileTransferList.json";
-            const string status_filename = @"C:\USR\SRC\CS\RevisedFileTransferService\FileTransferStatus.json";
-            
+            {
+                DirectoryInfo LogDR = new DirectoryInfo(Path.GetDirectoryName(UnhandledErrorPath));
+                if (!LogDR.Exists) LogDR.Create();
+            }
+
+            if (!File.Exists(UnhandledErrorPath))
+            {
+                // Create a file to write to.   
+                using (StreamWriter file = File.CreateText(UnhandledErrorPath))
+                {
+                    file.WriteLine("-------- Start of Log --------");
+                    file.WriteLine();
+                }
+            }
+
+
             // The JSON is set up to mimic TransferSerializer.cs so it's able to drop everything into place
             string JSONstring = File.ReadAllText(transferlist_filename);
             TransferSerializer? ServiceData = JsonSerializer.Deserialize<TransferSerializer>(JSONstring);
@@ -25,7 +43,7 @@ public sealed class WindowsBackgroundService : BackgroundService
             ServiceData.StartTimers();
 
             // UnhandledErrors.txt is a static text file used to catch errors
-            using (StreamWriter file = new StreamWriter(@"C:\USR\Logs\File Transfer Logs\UnhandledErrors.txt", true))
+            using (StreamWriter file = new StreamWriter(UnhandledErrorPath, true))
             {
                 file.WriteLine();
                 file.WriteLine(DateTime.Now.ToString("t") + "_Service Start");
@@ -64,7 +82,7 @@ public sealed class WindowsBackgroundService : BackgroundService
                 }
                 catch(Exception ex)
                 {
-                    using (StreamWriter file = new StreamWriter(@"C:\USR\Logs\File Transfer Logs\UnhandledErrors.txt", true))
+                    using (StreamWriter file = new StreamWriter(UnhandledErrorPath, true))
                     {
                         file.WriteLine();
                         file.WriteLine(DateTime.Now.ToString("t") + "-" + ex.Message);
@@ -92,7 +110,7 @@ public sealed class WindowsBackgroundService : BackgroundService
                 }
                 catch(Exception ex)
                 {
-                    using (StreamWriter file = new StreamWriter(@"C:\USR\Logs\File Transfer Logs\UnhandledErrors.txt", true))
+                    using (StreamWriter file = new StreamWriter(UnhandledErrorPath, true))
                     {
                         file.WriteLine();
                         file.WriteLine(DateTime.Now.ToString("t") + "_" + ex.ToString());

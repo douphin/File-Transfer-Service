@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ax0MBqKptMe+Me1U9xg4vGrdg60i3NM6JiPR6KL+bGxSDcQy7pNRwOyf23wGUwOfy0OxdkqFR1S8GdxWqfCS3Q==",
+  "dgSpecHash": "bUr6SM/i3RdqpcGIfm69Sz/bDicMuvm3gc7KBLgFBgwVDk3wGZDP5wEcv9UDz5cqsDrYfCsF62xHHEM/8UNI8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\A33073\\source\\repos\\File-Transfer-Service\\RevisedFileTransferService\\RevisedFileTransferService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\A33073\\.nuget\\packages\\fluentftp\\49.0.2\\fluentftp.49.0.2.nupkg.sha512",
+    "C:\\Users\\A33073\\.nuget\\packages\\fluentftp\\50.0.1\\fluentftp.50.0.1.nupkg.sha512",
     "C:\\Users\\A33073\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\A33073\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\A33073\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",

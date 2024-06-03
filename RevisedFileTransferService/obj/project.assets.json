@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "FluentFTP/49.0.2": {
+      "FluentFTP/50.0.1": {
         "type": "package",
         "compile": {
           "lib/net6.0/FluentFTP.dll": {
@@ -817,15 +817,15 @@
     }
   },
   "libraries": {
-    "FluentFTP/49.0.2": {
-      "sha512": "wc3NzrKoUwEcbAvyF3/VKi1DQfjZwmxKpvfCEjPEYD5Xqm7dyeDlDGQoIy7JtNP0S7yFU6P3Lc6Oo9TT4/CMMQ==",
+    "FluentFTP/50.0.1": {
+      "sha512": "iNG+wYZcBoOQmnrgR0EzUU1KHy3mOG/osGcd+bZMDcTC45tTLR45o0uInKd74t669d1JhGHBTzZKpSQOxBSisg==",
       "type": "package",
-      "path": "fluentftp/49.0.2",
+      "path": "fluentftp/50.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
-        "fluentftp.49.0.2.nupkg.sha512",
+        "fluentftp.50.0.1.nupkg.sha512",
         "fluentftp.nuspec",
         "lib/net462/FluentFTP.dll",
         "lib/net462/FluentFTP.xml",
@@ -2116,7 +2116,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "FluentFTP >= 49.0.2",
+      "FluentFTP >= 50.0.1",
       "Microsoft.Extensions.Hosting >= 8.0.0",
       "Microsoft.Extensions.Hosting.WindowsServices >= 8.0.0",
       "System.Data.Odbc >= 8.0.0"
@@ -2169,7 +2169,7 @@
         "dependencies": {
           "FluentFTP": {
             "target": "Package",
-            "version": "[49.0.2, )"
+            "version": "[50.0.1, )"
           },
           "Microsoft.Extensions.Hosting": {
             "target": "Package",

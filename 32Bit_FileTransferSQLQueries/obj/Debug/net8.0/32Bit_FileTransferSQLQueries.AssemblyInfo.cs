@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("32Bit_FileTransferSQLQueries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e41754cdb6bfa893aeda6336add3da57351ec091")]
 [assembly: System.Reflection.AssemblyProductAttribute("32Bit_FileTransferSQLQueries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("32Bit_FileTransferSQLQueries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnitTestsFileTransferService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08e4c07a0eb4a59e7783cedd3ba3fe2e0d573d1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e41754cdb6bfa893aeda6336add3da57351ec091")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnitTestsFileTransferService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnitTestsFileTransferService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

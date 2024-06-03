@@ -29,8 +29,8 @@ namespace UnitTestsFileTransferService
         [TestMethod]
         public void TestReadJSON()
         {
-            const string transferlist_filename = @"..\..\..\TestTransferList.json";
-            const string status_filename = @"..\..\..\TestTransferStatus.json";
+            const string transferlist_filename = @"TestTransferList.json";
+            const string status_filename = @"TestTransferStatus.json";
 
             string transferListString = File.ReadAllText(transferlist_filename);
             TransferSerializer? ServiceData = JsonSerializer.Deserialize<TransferSerializer>(transferListString);
@@ -50,7 +50,7 @@ namespace UnitTestsFileTransferService
         [TestMethod]
         public void TestWriteJSON()
         {
-            const string transferlist_filename = @"..\..\..\TestTransferList.json";
+            const string transferlist_filename = @"TestTransferList.json";
 
             string testTime = DateTime.Now.ToString("f");
 

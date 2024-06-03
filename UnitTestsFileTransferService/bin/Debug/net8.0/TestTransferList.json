@@ -1,9 +1,9 @@
 {
   "UpdateService": false,
-  "LastUpdate": "Monday, June 3, 2024 11:14 AM",
+  "LastUpdate": "Monday, June 3, 2024 11:36 AM",
   "transferObjects": [
     {
-      "transferName": "Test-Transfer Monday, June 3, 2024 11:14 AM",
+      "transferName": "Test-Transfer Monday, June 3, 2024 11:36 AM",
       "TransferActive": true,
       "srcDNSname": "TestTransfer",
       "destDNSname": "datasrv",

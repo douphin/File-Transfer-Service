@@ -47,7 +47,7 @@
           "dependencies": {
             "FluentFTP": {
               "target": "Package",
-              "version": "[49.0.2, )"
+              "version": "[50.0.1, )"
             },
             "Microsoft.Extensions.Hosting": {
               "target": "Package",

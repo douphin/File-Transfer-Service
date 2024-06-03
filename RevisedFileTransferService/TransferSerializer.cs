@@ -36,7 +36,7 @@ namespace RevisedFileTransferService
                 }
                 catch(Exception ex)
                 {
-                    using (StreamWriter file = new StreamWriter(@"C:\USR\Logs\File Transfer Logs\UnhandledErrors.txt", true))
+                    using (StreamWriter file = new StreamWriter(WindowsBackgroundService.UnhandledErrorPath, true))
                     {
                         file.WriteLine();
                         file.WriteLine(DateTime.Now.ToString("t") + "_" + ex.ToString());

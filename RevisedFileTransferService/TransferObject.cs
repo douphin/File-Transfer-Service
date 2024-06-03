@@ -593,7 +593,7 @@ namespace RevisedFileTransferService
             {
                 string strvar = DateTime.Now.ToString("t") + "-" + error;
                 string[] lines = { "\n", strvar };
-                File.AppendAllLines(@"C:\USR\Logs\File Transfer Logs\UnhandledErrors.txt", lines);
+                File.AppendAllLines(WindowsBackgroundService.UnhandledErrorPath, lines);
             }
             catch
             {

@@ -1,0 +1,26 @@
+{
+  "UpdateService": false,
+  "LastUpdate": "Monday, June 3, 2024 11:36 AM",
+  "transferObjects": [
+    {
+      "transferName": "Test-Transfer Monday, June 3, 2024 11:36 AM",
+      "TransferActive": true,
+      "srcDNSname": "TestTransfer",
+      "destDNSname": "datasrv",
+      "srcIPaddress": "192.168.0.1",
+      "destIPaddress": "192.168.0.2",
+      "minutesTimer": 5,
+      "logPrimary": false,
+      "logSecondary": true,
+      "srcPath": "\\Reports\\Reports \u0027yyyy-MM (MMM)\u0027\\",
+      "destPath": "\\Reports\\Reports \u0027yyyy-MM (MMM)\u0027\\",
+      "FTPbool": false,
+      "FTPusername": "",
+      "FTPpassword": "",
+      "lookBackDays": 7,
+      "deleteAfterCopy": false,
+      "monthsUntilPurge": 24,
+      "creationTimeAutoSort": false
+    }
+  ]
+}
